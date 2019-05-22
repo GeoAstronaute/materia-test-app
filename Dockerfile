@@ -9,7 +9,7 @@ RUN uptime
 COPY . /app
 
 WORKDIR /app
-
+zdz
 RUN npm install
 
 ENV MATERIA_MODE production
