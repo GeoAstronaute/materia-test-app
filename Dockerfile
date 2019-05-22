@@ -15,4 +15,4 @@ RUN npm install
 ENV MATERIA_MODE production
 
 EXPOSE 8080
-CMD ["npm", "start"]
+CMD ["npm", "start"]zada
